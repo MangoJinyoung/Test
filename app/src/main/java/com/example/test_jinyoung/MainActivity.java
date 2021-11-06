@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //test
         //test2
         // 김진영바보
-        // 컨플릭낸다 
+        //진영3 Test
     }
 }
